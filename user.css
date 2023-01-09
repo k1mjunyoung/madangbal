@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'S-CoreDream-3Light';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MapoFlowerIsland';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoFlowerIslandA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    font-family: S-CoreDream-3Light;
+    background-color: lightseagreen;
+}
+#main {
+    max-width: 540px;
+}
+h3.user2-h3{
+    font-family: MapoFlowerIsland;
+}
+.padding-st1{
+    padding-bottom: 1em;
+}
+
+ol {
+    list-style-type: none;
+    margin: 0;
+}
+
+address {
+    margin: 0;
+}
+.text-align-st1{
+    text-align: justify;
+}
