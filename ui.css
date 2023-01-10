@@ -19,3 +19,6 @@ body {
 .contact {
     height: 140px;
 }
+.tel,.mail,.address{
+    max-width: 720px;
+}
