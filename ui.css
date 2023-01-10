@@ -1,0 +1,21 @@
+body {
+    max-width: 960px;
+    margin: 0 auto;
+}
+#layout {
+    border: 2px solid gray;
+    margin: 0 auto;
+}
+.profileImage {
+    height: 200px;
+    width: 200px;
+}
+.introduce {
+    height: 400px;
+}
+.video {
+    height: 400px;
+}
+.contact {
+    height: 200px;
+}
