@@ -22,3 +22,12 @@ body {
 .tel,.mail,.address{
     max-width: 720px;
 }
+.qrLayout {
+    justify-content: center;
+    margin: 0 auto;
+    background-color: gray;
+    color: white;
+    height: 256px;
+    width: 256px;
+    margin-bottom: 10px;
+}
